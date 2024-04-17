@@ -28,5 +28,10 @@ public class CellPhoneApp {
         System.out.println("Carrier: " + cellPhone.getCarrier());
         System.out.println("Phone number: " + cellPhone.getPhoneNumber());
         System.out.println("Owner: " + cellPhone.getOwner());
+
+    // Exercise 2
+        CellPhone cellPhone2 = new CellPhone();
+
+        public static void display(cellPhone2);
     }
 }
